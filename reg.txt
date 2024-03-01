@@ -1,0 +1,21 @@
+1 ŽAIDIMAS
+Vartotojas įvedė skaičių 16
+Sugeneruotas atsitiktinis skaičius 14
+
+1 spėjimu vartotojas įvedė 4. Atsakymas - sugeneruotas skaičius didesnis.
+2 spėjimu vartotojas įvedė 10. Atsakymas - sugeneruotas skaičius didesnis.
+3 spėjimu vartotojas įvedė 16. Atsakymas - sugeneruotas skaičius mažesnis.
+4 spėjimu vartotojas atspėjo skaičių.
+1 bandymas(ai) įvesti netinkamą skaičių.
+
+2 ŽAIDIMAS
+Vartotojas įvedė skaičių 100
+Sugeneruotas atsitiktinis skaičius 20
+
+1 spėjimu vartotojas įvedė 50. Atsakymas - sugeneruotas skaičius mažesnis.
+2 spėjimu vartotojas atspėjo skaičių.
+0 bandymas(ai) įvesti netinkamą skaičių.
+
+
+Į užklausą „Ar žaisite dar“ pasirinko „Ne“.
+Vartotojas žaidė 2 kartą(us).
